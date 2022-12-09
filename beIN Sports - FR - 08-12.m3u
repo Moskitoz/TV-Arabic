@@ -1,0 +1,15 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="beIN Sports 1 HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP",beIN Sports 1 HD FR
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14415.m3u8
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="beIN Sports 1 FHD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP",beIN Sports 1 FHD FR
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/27738.m3u8
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="beIN Sports 2 HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP",beIN Sports 2 HD FR
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14414.m3u8
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="beIN Sports 2 FHD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP",beIN Sports 2 FHD FR
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/27737.m3u8
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="beIN Sports 3 HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP",beIN Sports 3 HD FR
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14413.m3u8
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="beIN Sports 3 FHD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/2022_FIFA_World_Cup.svg/642px-2022_FIFA_World_Cup.svg.png" group-title="WORLD CUP",beIN Sports 3 FHD FR
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/27736.m3u8
