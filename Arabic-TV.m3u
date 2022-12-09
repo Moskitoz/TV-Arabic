@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Lebanese Local TV",LB: Al Jadeed
+https://stream-11.dc3.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW2N6vaYgPgnMcPo7Mt8EKxR-M89o0POo4seObCy2D6lm)/dm/3/x7ztkw7/s/live-1.m3u8
+
+#EXTINF:-1 group-title="Lebanese Local TV",LB: MTV Lebanon
+https://live.3cd.io/v1/broadcast/mtv/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 group-title="Lebanese Local TV",LB: Manar TV
+https://manar.live/iptv/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Lebanese Local TV",LB: Etihad
+https://live.alittihad.tv:444/ittihad/chunklist_w73421776.m3u8
+
+#EXTINF:-1 group-title="Lebanese Local TV",LB: LBCI
+https://iptv.ipslow.com/tv166_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=5e07e4277bff3d303a834056ee6d6fe71f514286-56f1c532c583c102fb86f92b6874d4bd-1670592011-1670581211
+
+#EXTINF:-1 group-title="Lebanese Local TV",LB: LDC
+https://iptv.ipslow.com/tv166_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=5e07e4277bff3d303a834056ee6d6fe71f514286-56f1c532c583c102fb86f92b6874d4bd-1670592011-1670581211
+
+#EXTINF:-1 group-title="News",QA: Al-Jazeera
+https://live-hls-web-aja.getaj.net/AJA-b/04.m3u8
+
+#EXTINF:-1 group-title="News",KSA: Al-Arabia
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiya_360p_chunks.m3u8
+
+#EXTINF:-1 group-title="News",KSA: Al-Arabia-Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_360p_chunks.m3u8
+
+#EXTINF:-1 group-title="Drama",KSA: MBC Drama Plus+
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+#EXTINF:-1 group-title="Kids",KSA: Jeem
+https://iptv.ipslow.com/tv166_www.elahmad.com_jeem/tracks-v1a1/mono.m3u8?token=03699d2393455f83470f8036267e10f50843133f-09a9df9eb8d04c575f40165f6be00c95-1670592484-1670581684
+
+#EXTINF:-1 group-title="Kids",KSA: Baraem
+https://iptv.ipslow.com/tv166_www.elahmad.com_baraem/tracks-v1a1/mono.m3u8?token=19c60b276a0f1a9128c93b37a2c9a0ec71ee7fb6-087477d63bd053d2c83c78f1dc9c7a76-1670592522-1670581722
+
+#EXTINF:-1 group-title="Cartoon",KSA: CartoonNetwork-AR
+https://shls-masr2-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+
+#EXTINF:-1 group-title="News",UAE: Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_480.m3u8
+
+#EXTINF:-1 group-title="Lebanese Local TV",LB: Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 group-title="mbc",KSA: MBC Max
+https://iptv.ipslow.com/tv166_www.elahmad.com_mbc_max/tracks-v1a1/mono.m3u8?token=5b16f50d173970ed8a7d7fe5670af8c7aae12a4e-61505e2fcbba60aa52b77d4156b1d039-1670504222-1670493422
+
+#EXTINF:-1 group-title="News",EU: EuroNews-EN
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/4f2a3e6c8a44297559693a56768bcf04.m3u8
+
+#EXTINF:-1 group-title="Drama",TR: aTV-Turkish
+https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1670546948&st=V5pyZfUVAlTTvO2buCV8NQ&sid=4ynqy496iequ&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+
+#EXTINF:-1 group-title="Docu",TR: Al-Jazeera-Documentary
+https://live-hls-web-ajd.getaj.net/AJD/04.m3u8
