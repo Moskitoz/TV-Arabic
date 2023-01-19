@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Lebanese Local TV",LB: Al Jadeed
-https://stream-11.dc3.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW2N6vaYgPgnMcPo7Mt8EKxR-M89o0POo4seObCy2D6lm)/dm/3/x7ztkw7/s/live-1.m3u8
+https://stream-02.ix7.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW1OqKUiN16-dBlWBB8hvpTrHaT5Q_Yvf5SVpqtTTl69o)/dm/3/x7ztkw7/s/live-1.m3u8
 
 #EXTINF:-1 group-title="Lebanese Local TV",LB: MTV Lebanon
-https://live.3cd.io/v1/broadcast/mtv/tracks-v4a1/mono.m3u8
+https://1537084837.rsc.cdn77.org/1537084837/playlist.m3u8
 
 #EXTINF:-1 group-title="Lebanese Local TV",LB: Manar TV
 https://manar.live/iptv/tracks-v2a1/mono.m3u8
@@ -13,10 +13,16 @@ https://manar.live/iptv/tracks-v2a1/mono.m3u8
 https://live.alittihad.tv:444/ittihad/chunklist_w73421776.m3u8
 
 #EXTINF:-1 group-title="Lebanese Local TV",LB: LBCI
-https://iptv.ipslow.com/tv166_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=5e07e4277bff3d303a834056ee6d6fe71f514286-56f1c532c583c102fb86f92b6874d4bd-1670592011-1670581211
+https://iptv.ipslow.com/tv182_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=801970500bfd70cb8d909d9044add0b80a3f4f06-c08585eb6970f280eb055a96cc333afa-1674134517-1674123717
 
-#EXTINF:-1 group-title="Lebanese Local TV",LB: LDC
-https://iptv.ipslow.com/tv166_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=5e07e4277bff3d303a834056ee6d6fe71f514286-56f1c532c583c102fb86f92b6874d4bd-1670592011-1670581211
+#EXTINF:-1 group-title="Lebanese Local TV",LB: LBC
+https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lebanese Local TV",LB: NBN
+https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
+
+#EXTINF:-1 group-title="Lebanese Local TV",LB: OTV
+http://62.182.82.104/OTV/index.m3u8?token=test
 
 #EXTINF:-1 group-title="News",QA: Al-Jazeera
 https://live-hls-web-aja.getaj.net/AJA-b/04.m3u8
@@ -30,17 +36,41 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_360p_chunks.m3u8
 #EXTINF:-1 group-title="Drama",KSA: MBC Drama Plus+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
-#EXTINF:-1 group-title="Kids",KSA: Jeem
-https://iptv.ipslow.com/tv166_www.elahmad.com_jeem/tracks-v1a1/mono.m3u8?token=03699d2393455f83470f8036267e10f50843133f-09a9df9eb8d04c575f40165f6be00c95-1670592484-1670581684
+#EXTINF:-1 group-title="Kids",QA: Jeem
+https://iptv.ipslow.com/tv182_www.elahmad.com_jeem/tracks-v1a1/mono.m3u8?token=5e6acff6fcfc05bb37f33a46ff5ee815f202f52f-a86aba02056370f7b81ba1bf185279ac-1674137400-1674126600
 
-#EXTINF:-1 group-title="Kids",KSA: Baraem
-https://iptv.ipslow.com/tv166_www.elahmad.com_baraem/tracks-v1a1/mono.m3u8?token=19c60b276a0f1a9128c93b37a2c9a0ec71ee7fb6-087477d63bd053d2c83c78f1dc9c7a76-1670592522-1670581722
+#EXTINF:-1 group-title="Kids",QA: Baraem
+https://tv.ipslow.com/tv182_www.elahmad.com_baraem/tracks-v1a1/mono.m3u8?token=d8dca3642e51f5377e0561fc41c7cd8bb572992c-66f44dd745c53422f7d508624c62cf4e-1674137435-1674126635
 
-#EXTINF:-1 group-title="Cartoon",KSA: CartoonNetwork-AR
+#EXTINF:-1 group-title="Drama",KSA: MBC-1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+
+#EXTINF:-1 group-title="Drama",KSA: MBC-3
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+
+#EXTINF:-1 group-title="Drama",KSA: MBC-4
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
+#EXTINF:-1 group-title="Drama",KSA: MBC-5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
+#EXTINF:-1 group-title="Docu",UAE: NATGEO AbuDhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",KSA: CartoonNetwork-AR
 https://shls-masr2-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
 #EXTINF:-1 group-title="News",UAE: Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_480.m3u8
+
+#EXTINF:-1 group-title="News",UK: BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 group-title="News",DE: DW-Arabic
+https://hls.youtb.workers.dev/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
+
+#EXTINF:-1 group-title="News",RU: RT-Arabic
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
 #EXTINF:-1 group-title="Lebanese Local TV",LB: Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000_t64NDgwcA==.m3u8
@@ -51,8 +81,29 @@ https://iptv.ipslow.com/tv166_www.elahmad.com_mbc_max/tracks-v1a1/mono.m3u8?toke
 #EXTINF:-1 group-title="News",EU: EuroNews-EN
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/4f2a3e6c8a44297559693a56768bcf04.m3u8
 
-#EXTINF:-1 group-title="Drama",TR: aTV-Turkish
-https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1670546948&st=V5pyZfUVAlTTvO2buCV8NQ&sid=4ynqy496iequ&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+#EXTINF:-1 group-title="Kids",UAE: Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1 group-title="Docu",TR: Al-Jazeera-Documentary
+#EXTINF:-1 group-title="Docu",QA: Al-Jazeera-Documentary
 https://live-hls-web-ajd.getaj.net/AJD/04.m3u8
+
+#EXTINF:-1 group-title="Kids",LB: TAHA Kids Channel
+https://media2.livaat.com/TAHA-TV/index.m3u8
+
+#EXTINF:-1 group-title="Finance",UAE: CNBC Arabic
+https://hls.youtb.workers.dev/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
+
+#EXTINF:-1 group-title="Drama",SY: Syria-TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Drama",SY: Sama-TV
+http://142.132.224.85:1935/redirect/live/smil:mystream1.smil?scheme=m3u8
+
+#EXTINF:-1 group-title="Drama",SY: Lana-TV
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+
+#EXTINF:-1 group-title="Drama",SY: Lana-TV+
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
+
+#EXTINF:-1 group-title="News",IL: Lana-TV+
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
