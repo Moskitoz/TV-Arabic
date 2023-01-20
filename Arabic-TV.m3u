@@ -37,10 +37,10 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_360p_chunks.m3u8
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
 #EXTINF:-1 group-title="Kids",QA: Jeem
-https://iptv.ipslow.com/tv182_www.elahmad.com_jeem/tracks-v1a1/mono.m3u8?token=5e6acff6fcfc05bb37f33a46ff5ee815f202f52f-a86aba02056370f7b81ba1bf185279ac-1674137400-1674126600
+http://foofootv.com/live/foo/foofa/playlist.m3u8?ch=jeem&token=3046227750
 
 #EXTINF:-1 group-title="Kids",QA: Baraem
-https://tv.ipslow.com/tv182_www.elahmad.com_baraem/tracks-v1a1/mono.m3u8?token=d8dca3642e51f5377e0561fc41c7cd8bb572992c-66f44dd745c53422f7d508624c62cf4e-1674137435-1674126635
+http://foofootv.com/live/foo/foofa/playlist.m3u8?ch=baraem2&token=3046227750
 
 #EXTINF:-1 group-title="Drama",KSA: MBC-1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
