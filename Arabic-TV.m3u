@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Lebanese Local TV",LB: Al Jadeed
-https://stream-02.ix7.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW1OqKUiN16-dBlWBB8hvpTrHaT5Q_Yvf5SVpqtTTl69o)/dm/3/x7ztkw7/s/live-1.m3u8
+https://stream-09.dc3.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKWw3UjARgNqhqc1Q2vi5fXIoyyMtKHSn19f2dqKEvgOWU)/dm/3/x7ztkw7/s/live-1.m3u8
 
 #EXTINF:-1 group-title="Lebanese Local TV",LB: MTV Lebanon
 https://1537084837.rsc.cdn77.org/1537084837/playlist.m3u8
@@ -13,7 +13,7 @@ https://manar.live/iptv/tracks-v2a1/mono.m3u8
 https://live.alittihad.tv:444/ittihad/chunklist_w73421776.m3u8
 
 #EXTINF:-1 group-title="Lebanese Local TV",LB: LBCI
-https://iptv.ipslow.com/tv182_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=801970500bfd70cb8d909d9044add0b80a3f4f06-c08585eb6970f280eb055a96cc333afa-1674134517-1674123717
+https://iptv.ipslow.com/tv182_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=d656b7b34861c174f56f43b5fb57dbf0a0cb9fe0-b919721cf2391b2b0125eb1b360b7bf3-1674214781-1674203981
 
 #EXTINF:-1 group-title="Lebanese Local TV",LB: LBC
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
