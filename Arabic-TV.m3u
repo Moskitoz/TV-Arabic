@@ -105,5 +105,5 @@ https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3
 #EXTINF:-1 group-title="Drama",SY: Lana-TV+
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 
-#EXTINF:-1 group-title="News",IL: Lana-TV+
+#EXTINF:-1 group-title="News",IL: i24News
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
